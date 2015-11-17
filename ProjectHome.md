@@ -1,0 +1,1 @@
+# [AndroidAnnotations has moved to GitHub](https://github.com/excilys/androidannotations) #

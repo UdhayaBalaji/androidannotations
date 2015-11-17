@@ -1,0 +1,3 @@
+The AndroidAnnotations team never tested it with Netbeans, mainly because the ADT plugin is an Eclipse plugin, not a Netbeans plugin. It seems that there are not a lot of Netbeans users amongst the Android community. However, some people managed to get it working with Netbeans quite easily, as you can see [here](http://code.google.com/p/androidannotations/issues/detail?id=122#c4).
+
+Help welcome to fill the documentation!

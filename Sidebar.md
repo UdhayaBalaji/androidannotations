@@ -1,0 +1,45 @@
+  * [Release Notes](ReleaseNotes.md)
+  * [FAQ](FAQ.md)
+  * [Get Started](GettingStarted.md)
+    * [Download](Download.md) the jars
+    * [Configure](Configuring.md) your project
+    * [Annotate](FirstActivity.md) your first activity
+  * Documentation
+    * [How it works](HowItWorks.md)
+    * Build Tools
+      * [Using ProGuard](ProGuard.md)
+      * [Maven + Eclipse](MavenEclipse.md)
+      * [Ant](Ant.md)
+      * [Gradle](Gradle.md)
+    * IDE
+      * [Eclipse](Configuring.md)
+      * [IntelliJ IDEA](IntelliJIDEA.md)
+      * [Netbeans](Netbeans.md)
+    * [Layout and Views](LayoutAndViews.md)
+    * [Handling events](HandlingEvents.md)
+    * [Resources](Resources.md)
+    * [Extras](Extras.md)
+    * [System Services](SystemServices.md)
+    * [SharedPreferences helpers](SharedPreferencesHelpers.md)
+    * [Working with threads](WorkingWithThreads.md)
+    * [SQLite Transactions](SQLiteTransactions.md)
+    * [Android backward compat](AndroidBackwardCompatibility.md)
+    * [Troubleshooting](Troubleshooting.md)
+    * [Integration with RoboGuice](RoboGuiceIntegration.md)
+    * [Using the Fragments API](FragmentActivity.md)
+  * Examples
+    * [MyActivity](http://code.google.com/p/androidannotations/source/browse/HelloWorldEclipse/src/com/googlecode/androidannotations/helloworldeclipse/MyActivity.java)
+    * [ActivityWithExtra](http://code.google.com/p/androidannotations/source/browse/HelloWorldEclipse/src/com/googlecode/androidannotations/helloworldeclipse/ActivityWithExtra.java)
+    * [MyListActivity](http://code.google.com/p/androidannotations/source/browse/HelloWorldEclipse/src/com/googlecode/androidannotations/helloworldeclipse/MyListActivity.java)
+    * [@RoboGuice](http://code.google.com/p/androidannotations/source/browse/RoboGuiceExample/src/com/googlecode/androidannotations/roboguiceexample/AstroGirl.java)
+    * [Maven + Eclipse](http://code.google.com/p/androidannotations/source/browse/maveneclipse)
+  * Contributing
+    * [Introduction](Contributing.md)
+    * [Installing the environment](InstallingEnvironment.md)
+    * [How to contribute code](HowToContributeCode.md)
+    * [What can I do?](WhatCanIDo.md)
+    * [Releasing](Releasing.md)
+    * [Tweeting with ifttt.com](TweetingIfttt.md)
+    * [Stats](Stats.md)
+    * [Old Pages](OldPages.md)
+  * [Press](Press.md)
